@@ -1,4 +1,4 @@
-# GoStack12-desafio-conceitos-node
+# gostack12-desafio-conceitos-node
 Challenge developed for the first node.js concepts in Back-end for the Bootcamp GoStack12.
 
 
